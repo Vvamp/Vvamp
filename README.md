@@ -1,4 +1,10 @@
-### Hi there 👋
+# Vincent van Setten - @Vvamp
+Hey there! I'm Vincent. An Embedded C++ student.  
+I've always loved coding and it's my dream to turn this into a way to make my living. 😍  
+
+## Social
+
+ - [Check out my website!](https://vincentvansetten.com)
 
 <!--
 **Vvamp/Vvamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
