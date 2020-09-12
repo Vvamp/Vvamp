@@ -2,6 +2,10 @@
 Hey there! I'm Vincent. An Embedded C++ student.  
 I've always loved coding and it's my dream to turn this into a way to make my living. 😍  
 
+## Current Projects
+- RISC-V implementation in BMPTK(bare-metal programming toolkit)
+
+
 ## Social
 
  - [Check out my website!](https://vincentvansetten.com)
