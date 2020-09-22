@@ -4,6 +4,8 @@ I've always loved coding and it's my dream to turn this into a way to make my li
 
 ## Current Projects
 - RISC-V implementation in BMPTK(bare-metal programming toolkit)
+- Setting up a business
+- Coding from 9am 'till 8:59am
 
 
 ## Social
