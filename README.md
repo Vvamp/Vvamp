@@ -3,7 +3,7 @@ Hey there! I'm Vincent. An Embedded C++ student.
 I've always loved coding and it's my dream to turn this into a way to make my living. 😍  
 
 ## Current Projects
-- RISC-V implementation in BMPTK(bare-metal programming toolkit)
+- Studying neural networks
 - Setting up a business
 - Coding from 9am 'till 8:59am
 
@@ -11,7 +11,7 @@ I've always loved coding and it's my dream to turn this into a way to make my li
 ## Social
 
  - [Check out my website!](https://vincentvansetten.com)
-
+<!-- [Twitch, Youtube, Etc] -->
 <!--
 **Vvamp/Vvamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
