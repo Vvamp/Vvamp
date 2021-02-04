@@ -7,10 +7,11 @@ I've always loved coding and it's my dream to turn this into a way to make my li
 - Setting up a business
 - Coding from 9am 'till 8:59am
 
-## Skills
-- C++ 💻
+## 💪 Skills
+- C++ 💜
 - Python 🐍
-
+- Git
+- Linux
 
 ## 💬 Social
 
@@ -20,6 +21,9 @@ I've always loved coding and it's my dream to turn this into a way to make my li
  - [Check out my website!](https://vincentvansetten.com)
 <!-- [Twitch, Youtube, Etc] -->
 <!--
+
+
+btw I use arch 
 
 Here are some ideas to get you started:
 
