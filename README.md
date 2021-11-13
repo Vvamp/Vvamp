@@ -20,7 +20,7 @@ I've always loved coding and it's my dream to turn this into a way to make my li
  - [Follow me on twitch](https://twitch.tv/Vvamp)
  - [Check out my website!](https://vincentvansetten.com)
 <!-- [Twitch, Youtube, Etc] -->
-  
+  <!-- I love caro -->
     
       
         
