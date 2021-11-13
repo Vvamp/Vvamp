@@ -3,8 +3,8 @@ Hey there! I'm Vincent. An Embedded C++ student.
 I've always loved coding and it's my dream to turn this into a way to make my living. 😍  
 
 ## 💻 Current Projects
-- Studying neural networks
-- Setting up a business
+- Running a Company
+- Developing a Game
 - Coding from 9am 'till 8:59am
 
 ## 💪 Skills
