@@ -9,7 +9,7 @@ I've always loved coding and it's my dream to turn this into a way to make my li
 
 ## 💪 Skills
 - C++ 💜
-- C# 
+- C# 👓
 - Python 🐍
 - Git ✅
 - Linux 🐧
