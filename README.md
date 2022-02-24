@@ -3,12 +3,13 @@ Hey there! I'm Vincent. An Embedded C++ student.
 I've always loved coding and it's my dream to turn this into a way to make my living. 😍  
 
 ## 💻 Current Projects
-- Running a Company
+- Doing an Internship at Harrewijn B.V.
 - Developing a Game
 - Coding from 9am 'till 8:59am
 
 ## 💪 Skills
 - C++ 💜
+- C# 
 - Python 🐍
 - Git ✅
 - Linux 🐧
@@ -16,10 +17,9 @@ I've always loved coding and it's my dream to turn this into a way to make my li
 ## 💬 Social
 
  - [Connect with me on LinkedIn](https://linkedin.com/in/vincentvansetten)
- - [Follow me on twitter](https://twitter.com/Vvamp_)
- - [Follow me on twitch](https://twitch.tv/Vvamp)
  - [Check out my website!](https://vincentvansetten.com)
-<!-- [Twitch, Youtube, Etc] -->
+ - Discord: Vvamp#0001
+
   <!-- I love caro -->
     
       
@@ -29,7 +29,7 @@ I've always loved coding and it's my dream to turn this into a way to make my li
               
                 
 > btw I use arch 
-
+イチゴ  コーヒー
 <!--
 
 
