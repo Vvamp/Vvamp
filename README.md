@@ -3,9 +3,9 @@ Hey there! I'm Vincent. An Embedded C++ student.
 I've always loved coding and it's my dream to turn this into a way to make my living. 😍  
 
 ## 💻 Current Projects
-- Doing an Internship at Harrewijn B.V.
-- Developing a Game
-- Coding from 9am 'till 8:59am
+- Developing a Game 🕹️
+- Coding from 9am 'till 8:59am 🐱‍💻
+- Sleeping from 8:59am 'till 9am 😴
 
 ## 💪 Skills
 - C++ 💜
