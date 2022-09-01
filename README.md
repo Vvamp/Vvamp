@@ -3,7 +3,6 @@ Hey there! I'm Vincent. An Embedded C++ student.
 I've always loved coding and it's my dream to turn this into a way to make my living. 😍  
 
 ## 🔥 Stats 
-[![GitHub Streak](](https://git.io/streak-stats)
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="Vvamp's Stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Vvamp&theme=dark&date_format=j%2Fn%5B%2FY%5D)"/>
