@@ -2,6 +2,9 @@
 Hey there! I'm Vincent. An Embedded C++ student.  
 I've always loved coding and it's my dream to turn this into a way to make my living. 😍  
 
+## 🔥 Stats 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vvamp&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
 ## 💻 Current Projects
 - Developing a Game 🕹️
 - Coding from 9am 'till 8:59am 🐱‍💻
