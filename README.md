@@ -26,7 +26,7 @@ I've always loved coding and it's my dream to turn this into a way to make my li
 
  - [Connect with me on LinkedIn](https://linkedin.com/in/vincentvansetten)
  - [Check out my website!](https://vincentvansetten.com)
- - Discord: Vvamp#0001
+ - Discord: .vvamp
 
   <!-- I love caro -->
     
